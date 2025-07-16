@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Single-Page-React-App-1/static/css/main.f38a3276.css",
+    "main.js": "/Single-Page-React-App-1/static/js/main.21710855.js",
+    "index.html": "/Single-Page-React-App-1/index.html",
+    "main.f38a3276.css.map": "/Single-Page-React-App-1/static/css/main.f38a3276.css.map",
+    "main.21710855.js.map": "/Single-Page-React-App-1/static/js/main.21710855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.21710855.js"
+  ]
+}
